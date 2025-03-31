@@ -1,0 +1,6 @@
+pymupdf
+Pillow
+pytesseract
+pymupdf4llm
+docling
+requests
